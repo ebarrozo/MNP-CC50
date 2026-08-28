@@ -131,11 +131,7 @@ Scripts 07 and 08 instead test whether particle-associated fluorescence systemat
 
 ## Data availability
 
-The no-cell optical-interference control and plate-layout metadata are included here. The complete set of raw BMG MARS plate-reader exports must also be placed in `data/raw/` for end-to-end reproduction of the primary analysis.
-
-If the raw files are deposited in an external repository rather than GitHub, add the accession/DOI here before publication:
-
-> **Raw-data accession:** [TO ADD]
+Processed analysis-ready data underlying the statistical analyses, figures, and tables are provided in this repository, including replicate-level CC50 estimates and particle-associated fluorescence control data. Supplementary Tables S1 and S2 provide the corresponding statistical and descriptive outputs reported in the manuscript. Raw plate-reader exports are not required to reproduce the reported statistical analyses and are available from the corresponding author upon reasonable request.
 
 ## Code provenance
 
