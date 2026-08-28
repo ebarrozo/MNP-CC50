@@ -139,4 +139,4 @@ The numbered public scripts correspond to the finalized manuscript analysis. Ver
 
 ## License
 
-A software/data license has not yet been selected. Add the appropriate license before making the repository public.
+Analysis code in this repository is released under the MIT License.
